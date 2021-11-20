@@ -24,15 +24,17 @@ git add .
 
 Commit all the changes from the staging area
 ```
-git commit -m "message
+git commit -m "message"
 ```
 
-Push The changes in the repository from main branch
+Push
+
+- Push The changes in the repository from main branch
 ```
 git push 
 ```
 
-Push Changes in repository from different branch other than main
+- Push Changes in repository from different branch other than main
 ```
 git push origin <branchName>
 ```
@@ -88,20 +90,15 @@ git push origin --delete <remote-branch-name>
 git checkout <branchName> 
 ```
 
-2.
+2. The branch you want to merge
 ```
 git merge <branchName>
-```
-
-3. 
-```
-git pull
 ```
 
 ---
   
 ## Fork and Pull from Github 
 
-- Fork a repo
+- Fork a repo :  Creates a copy of the repo in your Github
 - Change the required changes
 - Send a pull request
