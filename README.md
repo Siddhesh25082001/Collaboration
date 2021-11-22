@@ -79,7 +79,7 @@ git branch -d <branchName>
   
 - Github delete
 ```
-git push origin --delete <remote-branch-name>
+git push origin --delete <branchName>
 ```
 
 ---
