@@ -1,5 +1,9 @@
 # Collaboration
 
+A Github Repository acting as a Git Cheat Sheet for all the enthusiats Github Developers
+
+---
+
 ## Normal Git Commands
 
 Clones the repository in your machine
